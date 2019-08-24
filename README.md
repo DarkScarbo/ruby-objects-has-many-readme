@@ -564,3 +564,5 @@ are. We've established a bi-directional relationship! Can you think of any other
 real world relationships where these associations could be applied?
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-objects-has-many-readme'>Has Many Object</a> on Learn.co and start learning to code for free.</p>
+
+
